@@ -1,6 +1,6 @@
 # homework
 
-hola git d
+hola git
 
 muy buenas a todos soy beniju
 
